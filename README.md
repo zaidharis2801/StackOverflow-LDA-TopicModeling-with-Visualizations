@@ -1,4 +1,4 @@
-**Repository Name: StackOverflow-LDA-TopicModeling-with-Visualizations**
+# StackOverflow-LDA-TopicModeling-with-Visualizations
 
 **Description:**
 
